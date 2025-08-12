@@ -24,6 +24,10 @@ Users can also log their ingestions, make notes and get an overview of their exp
 The project should be opened with the Xcode 13 or newer.
 Dependencies are managed with [Swift Package Manager](https://swift.org/package-manager), no further setup is needed.
 
+## Contributions
+
+This repo has been deprecated, ongoing development is happening in a private repo. If you want to do a fix or add a small improvement you can still do a PR on this repo, give your consent to include it in the private repo as part of a proprietary license and then your changes can potentially be included in future releases of the app.
+
 ## License
 ```
 This file is part of PsychonautWiki Journal.
