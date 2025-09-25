@@ -1440,7 +1440,7 @@
 		EAE470FA26CBA57F009FB0EC = {
 			isa = PBXGroup;
 			children = (
-				EAE4710526CBA57F009FB0EC /* PsychonautWiki Journal */,
+				EAE4710526CBA57F009FB0EC /* dose notes */,
 				EACB6E3B27D09C8800940291 /* JournalTests */,
 				EA085DD129607229001638AC /* TimelineWidget */,
 				EAE4710426CBA57F009FB0EC /* Products */,
@@ -1458,7 +1458,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EAE4710526CBA57F009FB0EC /* PsychonautWiki Journal */ = {
+		EAE4710526CBA57F009FB0EC /* dose notes */ = {
 			isa = PBXGroup;
 			children = (
 				EA39B2052BB981E0000B1C4E /* App Intents */,
@@ -1484,7 +1484,7 @@
 				EAF5D366270B3A6E00E78909 /* PsychonautWiki Journal.entitlements */,
 				EAE4715926CBA664009FB0EC /* Info.plist */,
 			);
-			path = "PsychonautWiki Journal";
+			path = "dose notes";
 			sourceTree = "<group>";
 		};
 		EAE4711B26CBA663009FB0EC /* Welcome Screen */ = {
@@ -1683,9 +1683,9 @@
 			productReference = EACB6E3A27D09C8800940291 /* JournalTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		EAE4710226CBA57F009FB0EC /* PsychonautWiki Journal */ = {
+		EAE4710226CBA57F009FB0EC /* dose notes */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EAE4711726CBA582009FB0EC /* Build configuration list for PBXNativeTarget "PsychonautWiki Journal" */;
+			buildConfigurationList = EAE4711726CBA582009FB0EC /* Build configuration list for PBXNativeTarget "dose notes" */;
 			buildPhases = (
 				EAE470FF26CBA57F009FB0EC /* Sources */,
 				EAE4710026CBA57F009FB0EC /* Frameworks */,
@@ -1698,7 +1698,7 @@
 			dependencies = (
 				EA085DDC29607229001638AC /* PBXTargetDependency */,
 			);
-			name = "PsychonautWiki Journal";
+			name = "dose notes";
 			packageProductDependencies = (
 				EAF76C9827D899E700945587 /* AlertToast */,
 				EAF76C9F27D8B72900945587 /* Algorithms */,
@@ -1731,7 +1731,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EAE470FE26CBA57F009FB0EC /* Build configuration list for PBXProject "PsychonautWiki Journal" */;
+			buildConfigurationList = EAE470FE26CBA57F009FB0EC /* Build configuration list for PBXProject "dose notes" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -1750,7 +1750,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EAE4710226CBA57F009FB0EC /* PsychonautWiki Journal */,
+				EAE4710226CBA57F009FB0EC /* dose notes */,
 				EACB6E3927D09C8800940291 /* JournalTests */,
 				EA085DCB29607229001638AC /* TimelineWidgetExtension */,
 			);
@@ -2154,7 +2154,7 @@
 		};
 		EACB6E3F27D09C8800940291 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EAE4710226CBA57F009FB0EC /* PsychonautWiki Journal */;
+			target = EAE4710226CBA57F009FB0EC /* dose notes */;
 			targetProxy = EACB6E3E27D09C8800940291 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -2386,7 +2386,7 @@
 				CODE_SIGN_ENTITLEMENTS = "PsychonautWiki Journal/PsychonautWiki Journal.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 6S7AHDRUD6;
+				DEVELOPMENT_TEAM = HJL4HGL565;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = "PsychonautWiki Journal/Info.plist";
@@ -2398,7 +2398,7 @@
 				);
 				MARKETING_VERSION = 11.11;
 				MY_BUNDLE_DISPLAY_NAME = Debug;
-				PRODUCT_BUNDLE_IDENTIFIER = "isaak.PsychonautWiki-Journal-Debug";
+				PRODUCT_BUNDLE_IDENTIFIER = "gay.sech1p.dose-notes-debug";
 				PRODUCT_NAME = Journal;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -2413,7 +2413,7 @@
 				CODE_SIGN_ENTITLEMENTS = "PsychonautWiki Journal/PsychonautWiki Journal.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 6S7AHDRUD6;
+				DEVELOPMENT_TEAM = HJL4HGL565;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = "PsychonautWiki Journal/Info.plist";
@@ -2425,7 +2425,7 @@
 				);
 				MARKETING_VERSION = 11.11;
 				MY_BUNDLE_DISPLAY_NAME = Journal;
-				PRODUCT_BUNDLE_IDENTIFIER = "isaak.PsychonautWiki-Journal";
+				PRODUCT_BUNDLE_IDENTIFIER = "gay.sech1p.dose-notes";
 				PRODUCT_NAME = Journal;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -2453,7 +2453,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EAE470FE26CBA57F009FB0EC /* Build configuration list for PBXProject "PsychonautWiki Journal" */ = {
+		EAE470FE26CBA57F009FB0EC /* Build configuration list for PBXProject "dose notes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAE4711526CBA582009FB0EC /* Debug */,
@@ -2462,7 +2462,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EAE4711726CBA582009FB0EC /* Build configuration list for PBXNativeTarget "PsychonautWiki Journal" */ = {
+		EAE4711726CBA582009FB0EC /* Build configuration list for PBXNativeTarget "dose notes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAE4711826CBA582009FB0EC /* Debug */,

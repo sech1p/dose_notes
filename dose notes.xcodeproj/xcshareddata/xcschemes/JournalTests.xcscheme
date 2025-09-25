@@ -19,7 +19,7 @@
                BlueprintIdentifier = "EACB6E3927D09C8800940291"
                BuildableName = "JournalTests.xctest"
                BlueprintName = "JournalTests"
-               ReferencedContainer = "container:PsychonautWiki Journal.xcodeproj">
+               ReferencedContainer = "container:dose notes.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
